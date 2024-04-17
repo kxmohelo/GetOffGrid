@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksolar_installation_calculator=self.webpackChunksolar_installation_calculator||[]).push([[262],{3262:(o,e,l)=>{l.r(e),l.d(e,{default:()=>a});var s=l(579);const a=()=>(0,s.jsxs)("video",{autoPlay:!0,loop:!0,muted:!0,id:"backgroundVideo",className:"w-full h-full object-cover",children:[(0,s.jsx)("source",{src:"videos/bg-video.mp4",type:"video/mp4"}),"Your browser does not support the video tag."]})}}]);
+//# sourceMappingURL=262.f35d890b.chunk.js.map
