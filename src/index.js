@@ -8,7 +8,7 @@ import './index.css';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
 root.render(
-  <BrowserRouter>
+  <BrowserRouter basename='https://kxmohelo.github.io/GetOffGrid/'>
     <Suspense fallback={<div >Loading</div>}>
       <App />
     </Suspense>
