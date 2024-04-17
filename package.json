@@ -2,6 +2,7 @@
     "name": "solar_installation_calculator",
     "version": "0.1.0",
     "description": "A simple solar installation components calculator",
+    "homepage": "https://kxmohelo.github.io/GetOffGrid",
     "private": true,
     "dependencies": {
         "@react-pdf/renderer": "^3.4.2",
@@ -10,6 +11,7 @@
         "@testing-library/user-event": "^13.5.0",
         "@uidotdev/usehooks": "^2.4.1",
         "file-saver": "^2.0.5",
+        "gh-pages": "^6.1.1",
         "react": "^18.2.0",
         "react-dom": "^18.2.0",
         "react-hook-form": "^7.51.0",
@@ -24,7 +26,9 @@
         "clean": "rm -rf node_modules",
         "watch": "nodemon",
         "test": "react-scripts test",
-        "eject": "react-scripts eject"
+        "eject": "react-scripts eject",
+        "predeploy": "npm run build",
+        "deploy": "gh-pages -d build"
     },
     "author": "kamomohlabula@icloud.com",
     "license": "MIT",
