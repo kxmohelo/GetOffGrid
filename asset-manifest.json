@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/GetOffGrid/static/css/main.4a134312.css",
+    "main.js": "/GetOffGrid/static/js/main.7d72bd39.js",
+    "static/js/453.512ba963.chunk.js": "/GetOffGrid/static/js/453.512ba963.chunk.js",
+    "static/js/262.f35d890b.chunk.js": "/GetOffGrid/static/js/262.f35d890b.chunk.js",
+    "index.html": "/GetOffGrid/index.html",
+    "main.4a134312.css.map": "/GetOffGrid/static/css/main.4a134312.css.map",
+    "main.7d72bd39.js.map": "/GetOffGrid/static/js/main.7d72bd39.js.map",
+    "453.512ba963.chunk.js.map": "/GetOffGrid/static/js/453.512ba963.chunk.js.map",
+    "262.f35d890b.chunk.js.map": "/GetOffGrid/static/js/262.f35d890b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a134312.css",
+    "static/js/main.7d72bd39.js"
+  ]
+}
